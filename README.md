@@ -2,7 +2,7 @@
 This is an A* pathfinding visualization using python 
 
 ### Library-in-needs
-You must have Tkinter to run this visualization, if it haven't installed on your computer, use the following command to install it. \\
+You must have Tkinter to run this visualization, if it haven't installed on your computer, use the following command to install it. \
 `$ pip install python-tk`
 
 ### Instruction
